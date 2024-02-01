@@ -40,7 +40,7 @@ cd lusitan-blockchain
 - For Node 1:
 
 ```bash
-python lusitan_node_5000.py
+python lusitan.py
 ```
 
 - For Node 2:
